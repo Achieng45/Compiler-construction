@@ -1,2 +1,3 @@
 # Compiler-construction
-compiler.py file has compiler construction code from scanner to parser and 
+compiler.py file has compiler construction code from lexical,semantic and syntax analysis
+
